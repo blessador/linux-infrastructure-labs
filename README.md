@@ -6,7 +6,7 @@
 | ------ | ----------------------------------- | -------------- |
 | Day 01 | Linux Basics                        | ✅ Completed    |
 | Day 02 | Linux Networking Fundamentals       | ✅ Completed    |
-| Day 03 | Linux Processes, Services & Systemd | 🚧 In Progress |
+| Day 03 | Linux Processes, Services & Systemd | ✅ Completed    |
 | Day 04 | Bash Scripting                      | ⏳ Upcoming     |
 | Day 05 | Linux System Administration         | ⏳ Upcoming     |
 | Day 06 | Linux Storage & Filesystems         | ⏳ Upcoming     |
