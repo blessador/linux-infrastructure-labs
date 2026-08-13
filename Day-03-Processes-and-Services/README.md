@@ -331,8 +331,8 @@ I also learned how journalctl can be used to investigate service activity and tr
 
 * [x] Theory Completed
 * [x] Hands-on Labs Completed
-* [x] Process Management Practiced
-* [x] Service Management Practiced
+* [x] Process Management Completed
+* [x] Service Management Completed
 * [x] Logs Investigated
 * [x] Process Health Script Completed
 * [x] Screenshots Added
